@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brice Martin</title>
-    <link>https://martinbri.github.io/</link>
-    <description>Recent content on Brice Martin</description>
+    <title>Posts on Brice Martin</title>
+    <link>https://martinbri.github.io/posts/</link>
+    <description>Recent content in Posts on Brice Martin</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2024 21:28:26 +0100</lastBuildDate>
-    <atom:link href="https://martinbri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Apr 2021 23:39:49 +0530</lastBuildDate>
+    <atom:link href="https://martinbri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme Documentation - Basics</title>
       <link>https://martinbri.github.io/posts/theme-documentation-basics/</link>
@@ -37,74 +37,11 @@
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;site configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files.&lt;/p&gt;&#xA;&lt;p&gt;These begin and end with a &lt;strong&gt;colon&lt;/strong&gt; and include the &lt;strong&gt;code&lt;/strong&gt; of an emoji:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Gone camping! {?:}tent: Be back soon.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;That is so funny! {?:}joy:&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The rendered output looks like this:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Try</title>
-      <link>https://martinbri.github.io/try/</link>
-      <pubDate>Sat, 02 Nov 2024 21:28:26 +0100</pubDate>
-      <guid>https://martinbri.github.io/try/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contacts</title>
-      <link>https://martinbri.github.io/contacts/</link>
-      <pubDate>Sat, 02 Nov 2024 18:10:34 +0100</pubDate>
-      <guid>https://martinbri.github.io/contacts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>https://martinbri.github.io/about/</link>
-      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://martinbri.github.io/about/</guid>
-      <description>&lt;p&gt;Hi!&lt;br&gt;&#xA;I am a recent PhD graduate from &lt;strong&gt;ISAE-SUPAERO, Toulouse, France&lt;/strong&gt;, where I specialized at the intersection of &lt;strong&gt;machine learning&lt;/strong&gt; and &lt;strong&gt;computational fluid dynamics (CFD)&lt;/strong&gt;. My passion lies in bridging these two disciplines to develop innovative solutions for complex aerodynamic challenges.&lt;/p&gt;&#xA;&lt;p&gt;Prior to my PhD, I earned a &lt;strong&gt;Master’s degree in Fluid Dynamics and Energetics&lt;/strong&gt; from &lt;strong&gt;Toulouse INP - ENSEEIHT (France)&lt;/strong&gt; in 2020, where I built a strong foundation in CFD, turbulence modeling, and aerodynamics.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Curriculum Vitae</title>
-      <link>https://martinbri.github.io/cv/</link>
-      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://martinbri.github.io/cv/</guid>
-      <description>&lt;h2 id=&#34;my-cv&#34;&gt;My CV&lt;/h2&gt;&#xA;&lt;p&gt;You can download my CV using the link below:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../cv/my-cv.pdf&#34;&gt;Download my CV&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>https://martinbri.github.io/publications/</link>
-      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://martinbri.github.io/publications/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;title: &lt;em&gt;Vortex Gust Mitigation Using Deep Reinforcement Learning&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;author: Brice Martin&lt;/p&gt;&#xA;&lt;p&gt;date: 2024-11&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;publication_url: &amp;ldquo;To come&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Abstract: How to leverage deep reinforcement learning to solve vortex gust mitigation problems? In&#xA;this dissertation, we approach the gust mitigation problem as an optimal control problem,&#xA;modeled as a Markov decision process. Deep reinforcement learning is particularly well&#xA;suited to solving these problems: first, it allows us to derive control functions regardless&#xA;of the complexity of the aerodynamic model; second, the control function adapts to the&#xA;fluid’s response to the control. However, for optimal performance, the controller needs to&#xA;know in advance the locations and intensities of the unmeasurable gust vortices. Without&#xA;this information, its efficiency is decreased. To address this issue, we employ a vortex&#xA;estimation technique based on Kalman filters, which estimates the gust vortices using&#xA;data from onboard sensors. Additionally, the learned control functions provide valuable&#xA;insights into the mechanisms of gust mitigation. We reveal them using force partitioning&#xA;techniques. Overall, this dissertation presents data-driven solutions for the dual tasks of&#xA;vortex gust detection and mitigation, with a particular focus on understanding the physical&#xA;mechanisms involved in these mitigation strategies.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Lorem Ipsum</title>
       <link>https://martinbri.github.io/posts/lorem-ipsum/</link>
       <pubDate>Thu, 15 Apr 2021 23:39:49 +0530</pubDate>
       <guid>https://martinbri.github.io/posts/lorem-ipsum/</guid>
       <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;Lorem ipsum dolor sit amet, consectetaur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CFD with Deep Reinforcement learning</title>
-      <link>https://martinbri.github.io/projects/cfd_drl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://martinbri.github.io/projects/cfd_drl/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Control problem modeling and resolution</title>
-      <link>https://martinbri.github.io/projects/drl_framework/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://martinbri.github.io/projects/drl_framework/</guid>
-      <description>&lt;h3 id=&#34;a-long-time-ago-in-a-galaxy-far-far-away&#34;&gt;A long time ago in a galaxy far, far away&amp;hellip;.&lt;/h3&gt;</description>
-    </item>
-    <item>
-      <title>Disturbance estimation</title>
-      <link>https://martinbri.github.io/projects/gust_estimation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://martinbri.github.io/projects/gust_estimation/</guid>
-      <description>&lt;h3 id=&#34;a-long-time-ago-in-a-galaxy-far-far-away&#34;&gt;A long time ago in a galaxy far, far away&amp;hellip;.&lt;/h3&gt;&#xA;&lt;p&gt;Another try to have this fucking tbhing working&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Disturbance mitigation using machine learning</title>
-      <link>https://martinbri.github.io/projects/gust_mitigation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://martinbri.github.io/projects/gust_mitigation/</guid>
-      <description>&lt;h3 id=&#34;a-long-time-ago-in-a-galaxy-far-far-away&#34;&gt;A long time ago in a galaxy far, far away&amp;hellip;.&lt;/h3&gt;&#xA;&lt;p&gt;Another try to have this fucking tbhing working&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

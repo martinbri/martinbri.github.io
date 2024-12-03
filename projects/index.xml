@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Brice Martin</title>
+    <link>https://martinbri.github.io/projects/</link>
+    <description>Recent content in Projects on Brice Martin</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://martinbri.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFD with Deep Reinforcement learning</title>
+      <link>https://martinbri.github.io/projects/cfd_drl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://martinbri.github.io/projects/cfd_drl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Control problem modeling and resolution</title>
+      <link>https://martinbri.github.io/projects/drl_framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://martinbri.github.io/projects/drl_framework/</guid>
+      <description>&lt;h3 id=&#34;a-long-time-ago-in-a-galaxy-far-far-away&#34;&gt;A long time ago in a galaxy far, far away&amp;hellip;.&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Disturbance estimation</title>
+      <link>https://martinbri.github.io/projects/gust_estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://martinbri.github.io/projects/gust_estimation/</guid>
+      <description>&lt;h3 id=&#34;a-long-time-ago-in-a-galaxy-far-far-away&#34;&gt;A long time ago in a galaxy far, far away&amp;hellip;.&lt;/h3&gt;&#xA;&lt;p&gt;Another try to have this fucking tbhing working&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disturbance mitigation using machine learning</title>
+      <link>https://martinbri.github.io/projects/gust_mitigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://martinbri.github.io/projects/gust_mitigation/</guid>
+      <description>&lt;h3 id=&#34;a-long-time-ago-in-a-galaxy-far-far-away&#34;&gt;A long time ago in a galaxy far, far away&amp;hellip;.&lt;/h3&gt;&#xA;&lt;p&gt;Another try to have this fucking tbhing working&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
