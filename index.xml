@@ -6,6 +6,14 @@
     <description>Recent content on Brice Martin</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://martinbri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://martinbri.github.io/about/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinbri.github.io/about/</guid>
+      <description>&lt;p&gt;Hi!&lt;br&gt;&#xA;I am a recent PhD graduate from &lt;strong&gt;ISAE-SUPAERO, Toulouse, France&lt;/strong&gt;, where I specialized in the intersection of &lt;strong&gt;machine learning&lt;/strong&gt; and &lt;strong&gt;computational fluid dynamics (CFD)&lt;/strong&gt;. My passion lies in bridging these two disciplines to develop innovative solutions for complex fluidic challenges.&lt;/p&gt;&#xA;&lt;p&gt;Prior to my PhD, I earned a &lt;strong&gt;Master’s degree in Fluid Dynamics and Energetics&lt;/strong&gt; from &lt;strong&gt;Toulouse INP - ENSEEIHT (France)&lt;/strong&gt; in 2020, where I built a strong foundation in CFD, aerodynamics, and thermics.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
